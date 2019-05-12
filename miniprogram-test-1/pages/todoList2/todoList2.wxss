@@ -1,0 +1,14 @@
+/* pages/todoList2/todoList2.wxss */
+.add-btn{
+  position: fixed;
+  bottom:0rpx;
+  width:750rpx
+}
+
+.detail-btn{
+  margin-right: 20rpx
+}
+
+.page{
+  margin-bottom: 50px
+}

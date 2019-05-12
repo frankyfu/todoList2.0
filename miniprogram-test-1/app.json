@@ -1,0 +1,14 @@
+
+{
+  "pages":[
+    "pages/todoList2/todoList2",
+    "pages/task/task",
+    "pages/detail/detail"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  }
+}
